@@ -131,7 +131,7 @@ nav .ul2 {
 }
 
 .jumbotron{
-    background: url(background/back.png) 
+    background: url(https://storage.googleapis.com/dicoding-yischard-1/back.png) 
     no-repeat center;
     width: 100%;
     height: 100vh;
@@ -485,7 +485,7 @@ nav .ul2 {
 }
 
 .latar4 {
-    background: url(background/foto2.png);
+    background: url(https://storage.googleapis.com/dicoding-yischard-1/foto2.png);
 }
 
 .hire1 {
